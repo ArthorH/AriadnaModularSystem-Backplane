@@ -8,6 +8,16 @@
 - **3 Can lines**
 - **Split termination**
 - **32 GPIO for each module**
+
+# Interested in AMS? Here's other projects:
+Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
+Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
+AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
+OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
+PrototypeBoard -> https://github.com/ArthorH/AriadnaModularSystem-PrototypeBoard
+Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
+RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie
+
 ## Author
 Artem Horiunov
 ## License
