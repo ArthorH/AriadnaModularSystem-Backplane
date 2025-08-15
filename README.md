@@ -8,8 +8,11 @@
 - **3 Can lines**
 - **Split termination**
 - **32 GPIO for each module**
-
+- 
 # Interested in AMS? Here's other projects:
+<img width="785" height="535" alt="image" src="https://github.com/user-attachments/assets/c2c2e241-b4d3-4de6-a690-427e43b897a7" />
+
+
 - Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane <-- You are here
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
