@@ -10,7 +10,7 @@
 - **32 GPIO for each module**
 
 # Interested in AMS? Here's other projects:
-- Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
+- Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane <-- You are here
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
 - OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
